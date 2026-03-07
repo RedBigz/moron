@@ -1,6 +1,6 @@
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 1
+**Total hours so far**: 2
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -8,8 +8,12 @@
 
 ## Mind Map
 
-**Approximate hours**: 1
+**Approximate hours**: 2
 
-I did a lot of research on printers and came up with this mind map:
+So there used to be an old mind-map here that uses cross-gantry kinematics because I abandoned my plan for a hybrid polar-CoreXY V0-style printer. I just found out it's stupid easy to make a polar bed!
 
-![Mind Map](media/logs/26-3-7/mind_map.excalidraw.svg)
+Lazy susans spin infinitely and are relatively cheap (https://www.aliexpress.com/item/1005007540027466.html), so i can just screw some mounts in and have a polar bed! Would still have to devise printed idlers and such though.
+
+Here's my new mind map!
+
+![New Mind Map](media/logs/26-3-7/mind_map.excalidraw.svg)
