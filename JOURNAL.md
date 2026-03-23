@@ -1,6 +1,6 @@
 **Made by**: @redbigz // may<br/>
 **Repository link**: https://github.com/RedBigz/moron<br/>
-**Total hours so far**: 9
+**Total hours so far**: 11
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -22,7 +22,7 @@ Here's my new mind map!
 
 ## Z Axis
 
-**Approximate hours: 7**
+**Approximate hours: 9**
 
 I created the Z axis, including the lazy susan system for the bed.
 
@@ -41,3 +41,9 @@ I'm using two motors for the Z axis to maintain stability, as I couldn't find a 
 I have yet to set up the polar rotation system, will do that soon.
 
 That's pretty much it <3
+
+### Rotation
+
+This took forever to set up. I realised that a belt path couldn't be made above the lazy susan, so I elongated the slip ring and added 2GT teeth to allow for rotation *under* the bed.
+
+![Rotation](media/logs/26-3-23/sliprotation.png)
