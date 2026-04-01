@@ -1,0 +1,76 @@
+Category,Cat. 2,Product,Size,Sourcing Method,Price (USD),Shipping (USD),GST (USD),Qty,Total (USD),Link,% of Grant,Grant Money Left,% of Grant Money Left
+Exterior,,,,,,,,,,,0.00%,$350.00,100.00%
+,Panels,,,,,,,,,,0.00%,$350.00,100.00%
+,,Acrylic,860x630mm,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$350.00,100.00%
+,,Flute Board,900x600mm,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$350.00,100.00%
+,Etc.,,,,,,,,,,0.00%,$350.00,100.00%
+,,Magnet,10x2mm,AliExpress,$5.60,$0.00,$0.56,1,$6.16,https://www.aliexpress.com/item/1005011864346920.html,1.76%,$343.84,98.24%
+Internals,,,,,,,,,,,0.00%,$343.84,98.24%
+,Frame,,,,,,,,,,0.00%,$343.84,98.24%
+,,Gantry Extrusions,1600mm,,,,,,,,0.00%,$343.84,98.24%
+,,Bed Extrusions,400mm,,,,,,,,0.00%,$343.84,98.24%
+,,Main Extrusions,2250mm,,,,,,,,0.00%,$343.84,98.24%
+,,Top Hat Extrusions,1400mm,,,,,,,,0.00%,$343.84,98.24%
+,,Total Extrusions,4800mm,AliExpress,$48.61,$4.35,$5.30,1,$58.26,https://www.aliexpress.com/item/1005003428294239.html,16.64%,$285.58,81.60%
+,,,900mm,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$285.58,81.60%
+,,T-Nut (30pcs/lot),M3,AliExpress,$3.38,$0.00,$0.34,2,$7.44,https://www.aliexpress.com/item/1005010661007823.html,2.12%,$278.15,79.47%
+,,,M5,Self,$0.00,$0.00,$0.00,2,$0.00,,0.00%,$278.15,79.47%
+,,Furniture Pad Sheet,?,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$278.15,79.47%
+,,,,,,,,,,,0.00%,$278.15,79.47%
+,Gantry,,,,,,,,,,0.00%,$278.15,79.47%
+,,Idlers,20TW6B5,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$278.15,79.47%
+,,,20TW6B5,AliExpress,$6.06,$0.00,$0.61,1,$6.67,https://www.aliexpress.com/item/1005007557987612.html,1.90%,$271.48,77.57%
+,,Pulleys,6mm,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$271.48,77.57%
+,,Dowel Pins,M5,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$271.48,77.57%
+,,Linear Rail,MGN9H 150mm,AliExpress,$11.21,$0.00,$1.12,3,$36.99,https://www.aliexpress.com/item/1005008170521006.html,10.57%,$234.49,67.00%
+,,Timing Belt,6mm 2m,AliExpress,$2.77,$0.00,$0.28,1,$3.05,https://www.aliexpress.com/item/1005005216868552.html,0.87%,$231.44,66.13%
+,,Motors,17HS4401,AliExpress,$7.48,$0.00,$0.75,2,$16.46,https://www.aliexpress.com/item/1005004586903773.html,4.70%,$214.99,61.42%
+,,,,,,,,,,,0.00%,$214.99,61.42%
+,Toolhead,,,,,,,,,,0.00%,$214.99,61.42%
+,,Gearset Kit,-,AliExpress,$13.50,$0.00,$1.35,1,$14.85,https://www.aliexpress.com/item/1005004699143725.html,4.24%,$200.14,57.18%
+,,Extruder Motor,NEMA14,AliExpress,$10.66,$0.00,$1.07,1,$11.73,https://www.aliexpress.com/item/1005006423228157.html,3.35%,$188.41,53.83%
+,,Part Cooling Fan (2pcs/lot),3010,AliExpress,$4.21,$0.00,$0.42,1,$4.63,https://www.aliexpress.com/item/1005009389076562.html ,1.32%,$183.78,52.51%
+,,Heatsink Fan,3010 Axial,AliExpress,$3.05,$0.00,$0.31,1,$3.36,https://www.aliexpress.com/item/1005008793365820.html,0.96%,$180.42,51.55%
+,,TZ V6 2.0,-,AliExpress,$15.33,$0.00,$1.53,1,$16.86,https://www.aliexpress.com/item/1005011904542108.html,4.82%,$163.56,46.73%
+,,BiQu Microprobe,,AliExpress,$18.32,$0.00,$1.83,1,$20.15,https://www.aliexpress.com/item/1005006314165426.html ,5.76%,$143.41,40.97%
+,,,,,,,,,,,0.00%,$143.41,40.97%
+,Z Axis,,,,,,,,,,0.00%,$143.41,40.97%
+,,A Motor,17HS4023,AliExpress,$5.47,$0.00,$0.55,1,$6.02,https://www.aliexpress.com/item/1005003874936862.html,1.72%,$137.39,39.25%
+,,Closed Loop Timing Belt,2GT 6mm 320mm,AliExpress,$4.66,$0.00,$0.47,1,$5.13,https://www.aliexpress.com/item/1005006817234108.html,1.46%,$132.27,37.79%
+,,Slip Ring,2.5mm 4CH 5A,AliExpress,$11.25,$0.54,$1.18,1,$12.97,https://www.aliexpress.com/item/1005007456626183.html,3.71%,$119.30,34.08%
+,,Bed,120mm (1070 Al),AliExpress,$9.77,$0.00,$0.98,1,$10.75,,3.07%,$108.55,31.01%
+,,Heater,,JLC,$3.00,$6.00,$0.00,1,$9.00,,2.57%,$99.55,28.44%
+,,Bed Springs,?,AliExpress,$2.90,$0.00,$0.29,1,$3.19,https://www.aliexpress.com/item/1005010253928500.html ,0.91%,$96.36,27.53%
+,,Lead Screw,-,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$96.36,27.53%
+,,Coupler,SK8,Printed,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$96.36,27.53%
+,,Smooth Rods,-,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,$96.36,27.53%
+,,Bearings (4pcs/lot),LM8UU,AliExpress,$10.56,$0.00,$1.06,1,$11.62,https://www.aliexpress.com/item/1005009031115995.html ,3.32%,$84.74,24.21%
+,,Lazy Susan,4”,AliExpress,$3.30,$0.00,$0.33,1,$3.63,https://www.aliexpress.com/item/4001325945215.html,1.04%,$81.11,23.18%
+,,Round PEI Sheet,120mm + Base,AliExpress,$14.36,$0.00,$1.44,1,$15.80,https://www.aliexpress.com/item/1005006173526115.html ,4.51%,$65.32,18.66%
+,,Silicone Wire,16AWG 2M,AliExpress,$3.83,$0.00,$0.38,1,$4.21,https://www.aliexpress.com/item/1005008563402600.html,1.20%,$61.11,17.46%
+,,Z Motors,17HS4401,Self,$0.00,$0.00,$0.00,2,$0.00,,0.00%,$61.11,17.46%
+,,,,,,,,,,,0.00%,$61.11,17.46%
+,Electronics,,,,,,,,,,0.00%,$61.11,17.46%
+,,Mean Well LRS-350,24V,AliExpress,$30.63,$2.16,$3.28,1,$36.07,https://www.aliexpress.com/item/1005005439330497.html,10.31%,$25.04,7.15%
+,,TMC2209 (6pcs/lot),-,AliExpress,$21.40,$0.00,$2.14,1,$23.54,https://www.aliexpress.com/item/33028050145.html,6.73%,$1.50,0.43%
+,,Mellow FLY D7,-,AliExpress,$22.84,$0.00,$2.28,1,$25.12,https://www.aliexpress.com/item/1005006422323624.html ,7.18%,-$23.63,-6.75%
+,,USB C Mount,50cm,AliExpress,$2.80,$0.00,$0.28,1,$3.08,https://www.aliexpress.com/item/1005007625403004.html ,0.88%,-$26.71,-7.63%
+,,Electronics Fan,?,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,-$26.71,-7.63%
+,,,,,,,,,,,0.00%,-$26.71,-7.63%
+,Fasteners,,,,,,,,,,0.00%,-$26.71,-7.63%
+,,Fasteners,M2.5x8mm,AliExpress,$1.76,$0.00,$0.18,1,$1.94,https://www.aliexpress.com/item/1005005070119421.html,0.55%,-$28.64,-8.18%
+,,,M3/M4/M5,Self,$0.00,$0.00,$0.00,?,$0.00,,0.00%,-$28.64,-8.18%
+,,Heated Inserts,M3L3OD4.5,AliExpress,$3.29,$0.00,$0.33,1,$3.62,https://www.aliexpress.com/item/1005006838108683.html,1.03%,-$32.26,-9.22%
+,,,M4L4OD6,AliExpress,$4.87,$0.00,$0.49,1,$5.36,,1.53%,-$37.62,-10.75%
+,,,,,,,,,,,0.00%,-$37.62,-10.75%
+Other,,,,,,,,,,,0.00%,-$37.62,-10.75%
+,Tools,,,,,,,,,,0.00%,-$37.62,-10.75%
+,,Tap,M5x0.8mm,AliExpress,$2.45,$0.00,$0.25,1,$2.70,https://www.aliexpress.com/item/33056326494.html ,0.77%,-$40.32,-11.52%
+,,,,,,,,,,,0.00%,-$40.32,-11.52%
+,Filament,,,,,,,,,,0.00%,-$40.32,-11.52%
+,,PETG (I know I should use ASA but I don’t have a good space to print it),Black,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,-$40.32,-11.52%
+,,PLA+ (external use only),Mint Green,Self,$0.00,$0.00,$0.00,1,$0.00,,0.00%,-$40.32,-11.52%
+,,,,,,,,,,,,,
+Total,,,,,,,,,$390.32,,,,
+Grant,,,,,,,,,$350.00,,,,
+Out-of-Pocket,,,,,,,,,$40.32,,,,
