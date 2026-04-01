@@ -3,8 +3,8 @@
     <h1>Moron - The "Non-Euclidean" "V0"</h1>
 </center>
 
-| [JOURNAL](JOURNAL.md) *(48.5h)* | ~~[BUILDING JOURNAL](JOURNAL_BUILDING.md)~~ |
-|---------------------------------|---------------------------------------------|
+| [JOURNAL](JOURNAL.md) *(48.5h)* | ~~[BUILDING JOURNAL](JOURNAL_BUILDING.md)~~ | [BOM](BOM.csv) |
+|---------------------------------|---------------------------------------------|----------------|
 
 # Introduction
 
