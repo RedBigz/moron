@@ -21,7 +21,9 @@ I wanted something silly that could print ASA and mess around with. Sporting a 1
 
 My aim for the project is to design a very... odd, printer haha. I also need an enclosed printer for ASA among other things, so this would be a very big help for future projects!
 
-If you want to build one: *don't*. But if you're redbigz you can find all the subtractive cuts/heater files in `cad/cuts/` and `cad/pcb/` and the CAD link [here](https://cad.onshape.com/documents/feabf94b86e21fadd98f4223/w/96543d883315d41072e87b21/e/ef18f69e66a19900010b1f70) (oh also the final STEP is in `cad/`!). 
+If you want to build one: *don't*. But if you're redbigz you can find all the subtractive cuts/heater files in `cad/cuts/` and `cad/pcb/` and the CAD link [here](https://cad.onshape.com/documents/feabf94b86e21fadd98f4223/w/96543d883315d41072e87b21/e/ef18f69e66a19900010b1f70) (oh also the final STEP is in `cad/`!).
+
+**Forgot to mention this, but please check out the [Voron V0](https://vorondesign.com/voron0.2)! It was a massive inspiration when designing the Moron (from the frame to the electronic placement), so it deserve credit.**
 
 # Render Gallery
 
