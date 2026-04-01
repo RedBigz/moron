@@ -1,7 +1,9 @@
 <p align="center">
     <img src="media/printerspin.gif" />
-    <h1>Moron - The "Non-Euclidean" "V0"</h1>
 </p>
+
+<h1 align="center">Moron - The "Non-Euclidean" "V0"</h1>
+
 
 | [JOURNAL](JOURNAL.md) *(48.5h)* | ~~[BUILDING JOURNAL](JOURNAL_BUILDING.md)~~ | [BOM](BOM.csv) |
 |---------------------------------|---------------------------------------------|----------------|
